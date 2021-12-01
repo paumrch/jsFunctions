@@ -12,4 +12,3 @@ function sum(numberOne, numberTwo) {
 console.log(sum(5, 4));
 
 
-
