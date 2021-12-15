@@ -39,5 +39,5 @@ const duplicates = [
     }
     return(param)
 }
-var a = removeDuplicates(duplicates)
-console.log(a)
+var finalArray = removeDuplicates(duplicates)
+console.log(finalArray)
